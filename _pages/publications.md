@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "MarkoLab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "MarkoLab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -58,7 +58,9 @@ permalink: /publications/
 
 ## Full List of publications
 
-{% for publi in site.data.publist %}
+### Pre MarkoLab
+
+{% for publi in site.data.publist_past %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>

@@ -25,9 +25,18 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
+<div class="card text-white bg-info mb-3" style="max-width: 20rem;">
+  <img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
+  <div class="card-header">{{ member.name }}</div>
+  <div class="card-body">
+    <h4 class="card-title">Info card title</h4>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4></h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 

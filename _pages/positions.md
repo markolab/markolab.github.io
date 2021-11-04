@@ -1,9 +1,9 @@
 ---
-title: "MarkoLab - Vacancies"
+title: "MarkoLab - Positions"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /positions
 ---
 
 # Open positions

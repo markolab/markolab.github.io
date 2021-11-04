@@ -1,0 +1,159 @@
+- title: Flexible scaling and persistence of social vocal communication
+  image: 
+  description: ""
+  authors:
+    Jingyi Chen, Jeffrey E Markowitz, Varoth Lilascharoen, Sandra Taylor, Pete Sheurpukdi, Jason A Keller, Jennifer R Jensen, Byung Kook Lim, Sandeep Robert Datta, Lisa Stowers
+  link:
+    url: https://www.nature.com/articles/s41586-021-03403-8
+    display: Nature 593 (7857), 108-113	(2020)
+  highlight: 0
+
+- title: Revealing the structure of pharmacobehavioral space through motion sequencing
+  image: 
+  description: ""
+  authors:
+    Alexander B Wiltschko, Tatsuya Tsukahara, Ayman Zeine, Rockwell Anyoha, Winthrop F Gillis, Jeffrey E Markowitz, Ralph E Peterson, Jesse Katon, Matthew J Johnson, Sandeep Robert Datta
+  link:
+    url: https://www.nature.com/articles/s41593-020-00706-3
+    display: Nature neuroscience 23 (11), 1433-1443	(2020)
+  highlight: 0
+
+- title: The striatum specifies the statistics of behavior
+  image: 
+  description: ""
+  authors:
+    JE Markowitz, SR Datta
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6879596/
+    display: Neuropsychopharmacology 45 (1), 222	(2020)
+  highlight: 0
+
+- title: "BehaveNet: nonlinear embedding and Bayesian neural decoding of behavioral videos"
+  image: 
+  description: ""
+  authors:
+    Eleanor Batty, Matthew Whiteway, Shreya Saxena, Dan Biderman, Taiga Abe, Simon Musall, Winthrop Gillis, Jeffrey Markowitz, Anne Churchland, John Cunningham, Sandeep Robert Datta, Scott Linderman, Liam Paninski
+  link:
+    url: https://openreview.net/forum?id=ByxMASrlUB
+    display: NeurIPS	(2019)
+  highlight: 0
+
+- title: The striatum organizes 3D behavior via moment-to-moment action selection
+  image: 
+  description: ""
+  authors:
+    Jeffrey E Markowitz, Winthrop F Gillis, Celia C Beron, Shay Q Neufeld, Keiramarie Robertson, Neha D Bhagat, Ralph E Peterson, Emalee Peterson, Minsuk Hyun, Scott W Linderman, Bernardo L Sabatini, Sandeep Robert Datta
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0092867418305129
+    display: Cell 174 (1), 44-58. e17	(2018)
+  highlight: 0
+
+- title: Dynamic illumination of spatially restricted or large brain volumes via a single tapered optical fiber
+  image: 
+  description: ""
+  authors:
+    Ferruccio Pisanello, Gil Mandelbaum, Marco Pisanello, Ian A Oldenburg, Leonardo Sileo, Jeffrey E Markowitz, Ralph E Peterson, Andrea Della Patria, Trevor M Haynes, Mohamed S Emara, Barbara Spagnolo, Sandeep Robert Datta, Massimo De Vittorio, Bernardo L Sabatini
+  link:
+    url: https://www.nature.com/articles/nn.4591?report=reader
+    display: Nature neuroscience 20 (8), 1180-1188 (2017)
+  highlight: 0
+
+- title: A fast and accurate zebra finch syllable detector
+  image: 
+  description: ""
+  authors:
+    B Pearre, LN Perkins, JE Markowitz, TJ Gardne
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181992
+    display: PloS one 12 (7), e0181992 (2017)
+  highlight: 0
+
+- title: Unstable neurons underlie a stable learned behavior
+  image: 
+  description: ""
+  authors:
+    William A Liberti, Jeffrey E Markowitz, L Nathan Perkins, Derek C Liberti, Daniel P Leman, Grigori Guitchounts, Tarciso Velho, Darrell N Kotton, Carlos Lois, Timothy J Gardner
+  link:
+    url: https://www.nature.com/articles/nn.4405
+    display: Nature neuroscience 19 (12), 1665-1671	 (2016)
+  highlight: 0
+
+- title: Neural sequence generation using spatiotemporal patterns of inhibition
+  image: 
+  description: ""
+  authors:
+    J Cannon, N Kopell, T Gardner, J Markowitz
+  link:
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004581
+    display: PLoS computational biology 11 (11), e1004581 (2015)
+  highlight: 0
+
+- title: Mesoscopic patterns of neural activity support songbird cortical sequences
+  image: 
+  description: ""
+  authors:
+    JE Markowitz, WA Liberti III, G Guitchounts, T Velho, C Lois, TJ Gardner
+  link:
+    url: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002158
+    display: PLoS biology 13 (6), e1002158 (2015)
+  highlight: 0
+
+- title: A carbon-fiber electrode array for long-term neural recording
+  image: 
+  description: ""
+  authors:
+    G Guitchounts, JE Markowitz, WA Liberti, TJ Gardner
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1741-2560/10/4/046016/meta
+    display: Journal of neural engineering 10 (4), 046016	(2013)
+  highlight: 0
+
+- title: Long-range order in canary song
+  image: 
+  description: ""
+  authors:
+    JE Markowitz, E Ivie, L Kligler, TJ Gardner
+  link:
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003052
+    display: PLoS computational biology 9 (5), e1003052	(2013)
+  highlight: 0
+
+- title: "The song must go on: resilience of the songbird vocal motor pathway"
+  image: 
+  description: ""
+  authors:
+    B Poole, JE Markowitz, TJ Gardner
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0038173
+    display: PloS one 7 (6), e38173 (2012)
+  highlight: 0
+
+- title: From retinal waves to activity-dependent retinogeniculate map development
+  image: 
+  description: ""
+  authors:
+    J Markowitz, Y Cao, S Grossberg
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0031553
+    display: PloS one 7 (2), e31553 (2012)
+  highlight: 0
+
+- title: "On the road to invariant recognition: Explaining tradeoff and morph properties of cells in inferotemporal cortex using multiple-scale task-sensitive attentive learning"
+  image: 
+  description: ""
+  authors:
+    S Grossberg, J Markowitz, Y Cao
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0893608011001249
+    display: Neural Networks 24 (10), 1036-1049 (2011)
+  highlight: 0
+
+- title: How does the brain rapidly learn and reorganize view-invariant and position-invariant object representations in the inferotemporal cortex?
+  image: 
+  description: ""
+  authors:
+    Y Cao, S Grossberg, J Markowitz
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0893608011001274
+    display: Neural Networks 24 (10), 1050-1061 (2011)
+  highlight: 0
