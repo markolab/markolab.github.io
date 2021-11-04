@@ -7,8 +7,6 @@ permalink: /publications/
 ---
 
 
-# Publications
-
 ## Group highlights
 
 (For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=vx6__-sAAAAJ&hl=en)
@@ -52,8 +50,6 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 ## Full List of publications
-
-### Pre MarkoLab
 
 {% for publi in site.data.publist_past %}
 

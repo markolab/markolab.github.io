@@ -24,7 +24,7 @@ permalink: /team/
 </div>
 <div class="col-sm-7 clearfix">
   <h5>{{ member.name }}</h5>
-  <p><i>{{ member.info }}<br>{% if member.email %}e: <{{ member.email }}>{% endif %}</i></p>
+  <i>{{ member.info }}<br>{% if member.email %}e: <{{ member.email }}>{% endif %}</i>
   <ul style="overflow: hidden; font-size: 11pt">
 
   {% if member.number_educ == 1 %}
