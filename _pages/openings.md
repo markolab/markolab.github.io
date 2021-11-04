@@ -3,7 +3,7 @@ title: "MarkoLab - Research"
 layout: textlay
 excerpt: "MarkoLab - Research"
 sitemap: false
-permalink: /research/
+permalink: /openings/
 ---
 
 Under construction...
