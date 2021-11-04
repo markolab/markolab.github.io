@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=vx6__-sAAAAJ&hl=en)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -53,9 +53,8 @@ permalink: /publications/
 
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>TJ Gardner, W Liberti, J Markowitz, G Guitchounts</em><br /> Minimally invasive splaying microfiber electrode array and methods of fabricating and implanting the same <br /> <a href="https://patentimages.storage.googleapis.com/e4/ba/df/b6ec32fa8dc8a9/US20170007824A1.pdf">App Number 14902734 (2017)</a>
 
 ## Full List of publications
 
