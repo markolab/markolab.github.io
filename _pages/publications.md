@@ -51,11 +51,6 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-## Patents
-
-<em>TJ Gardner, W Liberti, J Markowitz, G Guitchounts</em><br /> Minimally invasive splaying microfiber electrode array and methods of fabricating and implanting the same <br /> <a href="https://patentimages.storage.googleapis.com/e4/ba/df/b6ec32fa8dc8a9/US20170007824A1.pdf">App Number 14902734 (2017)</a>
-
 ## Full List of publications
 
 ### Pre MarkoLab
@@ -66,3 +61,8 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+
+## Patents
+
+<em>TJ Gardner, W Liberti, J Markowitz, G Guitchounts</em><br /> Minimally invasive splaying microfiber electrode array and methods of fabricating and implanting the same <br /> <a href="https://patentimages.storage.googleapis.com/e4/ba/df/b6ec32fa8dc8a9/US20170007824A1.pdf">App Number 14902734 (2017)</a>
