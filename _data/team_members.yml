@@ -9,7 +9,7 @@
 
 - name: "This could be you !"
   photo: TheVoid.png
-  info: See <a href="markolab.github.io/openings">openings</a> for details
+  info: See <a href="/openings">openings</a> for details
   email: 
   number_educ: 0
   education1: 
