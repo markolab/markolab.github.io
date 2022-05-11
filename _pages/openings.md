@@ -16,7 +16,7 @@ Grad students!
 </h4>
 </div>
 <div class="card-body">
-<p class="card-text">The MarkoLab is currently looking to hire motivated graduate students and postdocs. Skills in machine learning, software engineering, computer vision, systems neuroscience, and/or molecular biology preferred, though students all are encouraged to apply!</p>
+<p class="card-text">The MarkoLab is currently looking to hire motivated graduate students. Skills in machine learning, software engineering, computer vision, systems neuroscience, and/or molecular biology preferred, but all are encouraged to apply!</p>
 </div>
 </div>
 
@@ -27,7 +27,7 @@ Post-docs!
 </h4>
 </div>
 <div class="card-body">
-<p class="card-text">The MarkoLab is currently looking to hire exceptionally motivated post-docs. Skills in machine learning, software engineering, computer vision, systems neuroscience, and/or molecular biology preferred, though all are encouraged to apply!</p>
+<p class="card-text">The MarkoLab is currently looking to hire exceptionally motivated post-docs. Skills in machine learning, software engineering, computer vision, systems neuroscience, and/or molecular biology preferred, but all are encouraged to apply!</p>
 </div>
 </div>
 
